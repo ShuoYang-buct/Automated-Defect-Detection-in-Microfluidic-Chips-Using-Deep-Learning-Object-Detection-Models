@@ -16,6 +16,18 @@ WORKDIR /home/jovyan
 # Install additional packages ( from requirements.txt file)
 COPY requirements.txt /home/jovyan/
 COPY Task.ipynb /home/jovyan/
+COPY 01.jpg /home/jovyan/
+COPY 02.jpg /home/jovyan/
+COPY 03.jpg /home/jovyan/
+COPY 04.jpg /home/jovyan/
+COPY 05.jpg /home/jovyan/
+COPY 06.jpg /home/jovyan/
+COPY 07.jpg /home/jovyan/
+COPY 08.jpg /home/jovyan/
+COPY 10.jpg /home/jovyan/
+COPY 09.jpg /home/jovyan/
+COPY 11.jpg /home/jovyan/
+COPY 12.jpg /home/jovyan/
 COPY best.pt /home/jovyan/
 COPY EXP /home/jovyan/
 RUN pip install --no-cache-dir -r requirements.txt
