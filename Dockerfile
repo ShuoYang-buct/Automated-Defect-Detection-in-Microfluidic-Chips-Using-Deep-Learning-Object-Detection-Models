@@ -16,6 +16,7 @@ WORKDIR /home/jovyan
 # Install additional packages ( from requirements.txt file)
 COPY requirements.txt /home/jovyan/
 COPY Task.ipynb /home/jovyan/
+COPY best.pt /home/jovyan/
 COPY EXP /home/jovyan/
 RUN pip install --no-cache-dir -r requirements.txt
 
@@ -25,5 +26,4 @@ RUN pip install torchvision==0.15.2+cpu --index-url https://download.pytorch.org
 
 #RUN pip install torchvision==0.15.1
 
-RUN pip install ultralytics==8.0.89
-
+RUN pip install ultralytics
