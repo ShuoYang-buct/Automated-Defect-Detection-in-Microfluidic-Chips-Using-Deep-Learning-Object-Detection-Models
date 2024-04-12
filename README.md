@@ -24,6 +24,10 @@ The focus of this paper is to use the native YOLOv8 and Roboflow Train 3.0 for t
 # Prediction Steps:
 A. Just click on the binder link, and it automatically installs all the required libraries and opens the Task.ipynb.By running them sequentially, you can make predictions directly without any additional conditions. Please click the button below to use Binder.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ShuoYang-buct/Automated-Defect-Detection-in-Microfluidic-Chips-Using-Machine-Learning-Object-Detection-Models/main)
+![image](https://github.com/ShuoYang-buct/Automated-Defect-Detection-in-Microfluidic-Chips-Using-Machine-Learning-Object-Detection-Models/assets/125955811/d567e5a1-31e5-49a0-b05d-806e02b456b1)
+Please click Task.ipynb.
+![image](https://github.com/ShuoYang-buct/Automated-Defect-Detection-in-Microfluidic-Chips-Using-Machine-Learning-Object-Detection-Models/assets/125955811/4c1ebb34-a3a9-4845-89a3-48aa4351959b)
+First click on the first line of code to select it, and then press the run key continuously.
 
 B. For predictions using the YOLOv8 training results, there are two ways to obtain the required files: 1. You can generate them after training and run them directly using the existing code. 2. If you have imported the EXP folder into the root directory of Google Drive, you can directly run the "Tasks" section and use the model I provided for training. After running, you can detect using the preset image paths. You can change the image paths and names in the code to replace the prediction photos. For convenience, defective images are provided in the photos folder in EXP for you to use.
 
