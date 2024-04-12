@@ -35,7 +35,6 @@ C. When using Roboflow Train 3.0 for training, you can directly open [roboflow](
    Click the model on the left,
    ![image](https://github.com/ShuoYang-buct/Automated-Defect-Detection-in-Microfluidic-Chips-Using-Machine-Learning-Object-Detection-Models/assets/125955811/392afce1-298a-4ba5-9315-34927b00fbf9)
 Then change the pre-trained model, click Switch Model, and select the v1 model.
-![image](https://github.com/ShuoYang-buct/Automated-Defect-Detection-in-Microfluidic-Chips-Using-Machine-Learning-Object-Detection-Models/assets/125955811/a483e55b-4d4f-4078-ae66-1d88a8d4e011)
 Download the EXP file, select an image from the Photos folder, click Select File and upload,
 ![image](https://github.com/ShuoYang-buct/Automated-Defect-Detection-in-Microfluidic-Chips-Using-Machine-Learning-Object-Detection-Models/assets/125955811/4c9e0f5d-cbd2-4705-86b3-9f84a8436c70)
 The prediction is successfully completed.
