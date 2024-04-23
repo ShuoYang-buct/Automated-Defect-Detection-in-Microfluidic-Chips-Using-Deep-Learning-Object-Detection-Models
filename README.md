@@ -9,7 +9,7 @@ Shuo Yang 1 †, Qingzheng Wang 1 †, Yuhan Lu 1 †, Yu Cheng 1 †, Yiqiang F
 
 † These authors contributed equally to this work.
 
-### Note: The dataset used and the prediction model trained using Roboflow Train 3.0 can be found at [roboflow](https://universe.roboflow.com/project-ptbeh/datasets-nbdxy/model/1). The Google Drive link for the cloud platform used for YOLOv8 training is https://drive.google.com/drive/home.
+### Note: The dataset used and the prediction model trained using Roboflow Train 3.0 can be found at [roboflow](https://universe.roboflow.com/project-ptbeh/datasets-nbdxy/model/1). The Google Drive link for the cloud platform used for YOLOv8 training is https://drive.google.com/drive/home.Click the button here to use the pretrained model using Binder. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ShuoYang-buct/Automated-Defect-Detection-in-Microfluidic-Chips-Using- Deep-Learning-Object-Detection-Models/main)
 
 # Training Steps:
 1. Dataset Preparation:
@@ -24,7 +24,7 @@ The focus of this paper is to use the native YOLOv8 and Roboflow Train 3.0 for t
 
 # Prediction Steps:
 A. Just click on the binder link, and it automatically installs all the required libraries and opens the Task.ipynb.By running them sequentially, you can make predictions directly without any additional conditions. Please click the button below to use Binder.
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ShuoYang-buct/Automated-Defect-Detection-in-Microfluidic-Chips-Using-Machine-Learning-Object-Detection-Models/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ShuoYang-buct/Automated-Defect-Detection-in-Microfluidic-Chips-Using-Deep-Learning-Object-Detection-Models/main)
 ![image](https://github.com/ShuoYang-buct/Automated-Defect-Detection-in-Microfluidic-Chips-Using-Machine-Learning-Object-Detection-Models/assets/125955811/d567e5a1-31e5-49a0-b05d-806e02b456b1)
 Please click Task.ipynb.
 ![image](https://github.com/ShuoYang-buct/Automated-Defect-Detection-in-Microfluidic-Chips-Using-Machine-Learning-Object-Detection-Models/assets/125955811/4c1ebb34-a3a9-4845-89a3-48aa4351959b)
