@@ -9,8 +9,7 @@ Shuo Yang 1 †, Qingzheng Wang 1 †, Yuhan Lu 1 †, Yu Cheng 1 †, Yiqiang F
 
 † These authors contributed equally to this work.
 
-### Note: The dataset used and the prediction model trained using Roboflow Train 3.0 can be found at [roboflow](https://universe.roboflow.com/project-ptbeh/datasets-nbdxy/model/1). The Google Drive link for the cloud platform used for YOLOv8 training is https://drive.google.com/drive/home. Click the button here to use the pretrained model using Binder.
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ShuoYang-buct/Automated-Defect-Detection-in-Microfluidic-Chips-Using- Deep-Learning-Object-Detection-Models/main)
+### Note: The dataset used and the prediction model trained using Roboflow Train 3.0 can be found at [roboflow](https://universe.roboflow.com/project-ptbeh/datasets-nbdxy/model/1). The Google Drive link for the cloud platform used for YOLOv8 training is https://drive.google.com/drive/home. Click the button here to use the pretrained model using Binder.[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ShuoYang-buct/Automated-Defect-Detection-in-Microfluidic-Chips-Using-Deep-Learning-Object-Detection-Models/main?%E6%96%87%E4%BB%B6path=Task.ipynb)
 
 # Training Steps:
 1. Dataset Preparation:
