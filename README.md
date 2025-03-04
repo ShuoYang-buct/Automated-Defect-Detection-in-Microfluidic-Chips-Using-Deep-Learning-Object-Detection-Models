@@ -1,7 +1,7 @@
 # Automatic Defect Detection in Microfluidic Chips Using Machine Learning Object Detection Models 
 Author List:
 
-Shuo Yang 1 †, Qingzheng Wang 1 †, Yuhan Lu 1 †, Cheng Yu 1 †, Yiqiang Fan 1,2*  
+Penghui Wan 1 †,Shuo Yang 1 †, Qingzheng Wang 1 †, Yuhan Lu 1 †, Cheng Yu 1 †, Yiqiang Fan 1,2*  
 
 1 School of Mechanical & Electrical Engineering, Beijing University of Chemical Technology, Beijing 100029   
 
